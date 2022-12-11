@@ -1,5 +1,5 @@
 # Heya there!
-- 👋 Hi, I’m @lun4b0y
+- 👋 Hi, I’m @LtzDarik
 - 👀 I’m interested in i dont know
 - 🌱 I’m currently learning C++, C#, Batch, Python
 - 💞️ I’m looking to collaborate on i dont know
