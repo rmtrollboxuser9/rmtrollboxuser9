@@ -1,11 +1,11 @@
 # Heya there!
-- 👋 Hi, I’m @LtzDarik
-- 👀 I’m interested in i dont know
+- 👋 Hi, I’m @rmtrollboxuser9
+- 👀 I’m interested in being friends with good people
 - 🌱 I’m currently learning C++, C#, Batch, Python
-- 💞️ I’m looking to collaborate on i dont know
+- 💞️ I’m looking to collaborate on I don't know 
 - 📫 How to reach me help me complete geometry dash demons
 
 <!---
-lun4b0y/lun4b0y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rmtrollboxuser9/rmtrollboxuser9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
